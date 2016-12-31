@@ -1,0 +1,5 @@
+Nome do arquivo: funcionarios.txt
+Numero de caracteres: 187
+Numero de linhas: 25
+Numero de palavras: 34
+Numero de espaços: 9
